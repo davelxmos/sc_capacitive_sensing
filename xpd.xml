@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<xpd>
+    <components></components>
+    <location>git@github.com:davelxmos/sc_capacitive_sensing</location>
+    <name>sc_capacitive_sensing</name>
+    <version_defines></version_defines>
+    <xcore_repo>git://github.com/davelxmos/sc_capacitive_sensing</xcore_repo>
+    <xpd_version>1.0</xpd_version>
+</xpd>
