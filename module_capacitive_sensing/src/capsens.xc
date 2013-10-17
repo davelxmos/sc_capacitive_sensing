@@ -24,7 +24,7 @@ void setupNbit(port cap, const clock k) {
 void measureNbit(port cap, unsigned int times[width],
                  static const unsigned width,
                  static const unsigned N) {
-    int values[N];
+    int values[80];
     int curCaps, notSeen, curTime, newCaps, newBits;
     int t1, t0;
     int mask = (1 << width) - 1;
